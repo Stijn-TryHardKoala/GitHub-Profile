@@ -19,16 +19,11 @@
 
 ---
 
-## 💼 Current Projects  
-🚀 Working on **[TellenListener](https://github.com/your-repo-link)**, a Discord bot that integrates with Minecraft servers.  
-📦 Developing libraries and utilities for seamless server management.  
+## 💼 Current Projects
 
 ---
 
 ## 📫 Let's Connect!  
 - GitHub: [YourUsername](https://github.com/YourUsername)  
-- Discord: [YourDiscordHandle]  
+- Discord: tryhardkoala  
 
----
-
-✨ "Turning ideas into reality, one block at a time!"  
